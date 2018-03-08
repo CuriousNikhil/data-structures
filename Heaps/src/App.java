@@ -9,7 +9,6 @@ public class App {
         heap.insert(10);
         heap.insert(15);
 
-
         System.out.println(heap.getMax());
         System.out.println(heap.getMax());
         System.out.println(heap.getMax());
