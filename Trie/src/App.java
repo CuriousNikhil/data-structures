@@ -5,7 +5,7 @@ public class App {
     /**
     * Caution:
     * The below code is only for the small letter strings, it will not work
-    * for the capital letter strings as implemented with ascii code.    
+    * for the capital letter strings as implemented with ascii code.
     */
 
     public static void main(String[] a){
