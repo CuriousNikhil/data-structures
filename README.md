@@ -3,6 +3,10 @@
 
 ![Data structures ](https://github.com/CuriousNikhil/data-structures/blob/master/Quotefancy-3236931-3840x2160.jpg)
 
+![]({{site.baseurl}}/https://img.shields.io/badge/Data%20Structures-java-blue.svg?longCache=true&style=for-the-badge)
+![]({{site.baseurl}}/https://img.shields.io/badge/Opensource--orange.svg?longCache=true&style=for-the-badge)
+
+
 This repository is about almost all the data strutures implemented in java. Feel free to contribute. Just make a pull request and you are in!
 
 ### Data Structure list
@@ -18,5 +22,3 @@ This repository is about almost all the data strutures implemented in java. Feel
 - [Splay Trees](https://github.com/CuriousNikhil/data-structures/tree/master/SplayTree/src)
 - [Trie (Prefix Trees)](https://github.com/CuriousNikhil/data-structures/tree/master/Trie/src)
 - [Ternary Search Tree](https://github.com/CuriousNikhil/data-structures/tree/master/Ternary%20Search%20Tree/src)
-
-
