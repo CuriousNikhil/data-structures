@@ -3,8 +3,8 @@
 
 ![Data structures ](https://github.com/CuriousNikhil/data-structures/blob/master/Quotefancy-3236931-3840x2160.jpg)
 
-![]({{site.baseurl}}/https://img.shields.io/badge/Data%20Structures-java-blue.svg?longCache=true&style=for-the-badge)
-![]({{site.baseurl}}/https://img.shields.io/badge/Opensource--orange.svg?longCache=true&style=for-the-badge)
+![](https://img.shields.io/badge/Data%20Structures-java-blue.svg?longCache=true&style=for-the-badge)
+![](https://img.shields.io/badge/Opensource--orange.svg?longCache=true&style=for-the-badge)
 
 
 This repository is about almost all the data strutures implemented in java. Feel free to contribute. Just make a pull request and you are in!
