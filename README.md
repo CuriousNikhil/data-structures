@@ -1,4 +1,5 @@
-## Data structures
+
+<div align="center"> <h1> Data Structures </h1> </div>
 
 ![Data structures ](https://github.com/CuriousNikhil/data-structures/blob/master/Quotefancy-3236931-3840x2160.jpg)
 
